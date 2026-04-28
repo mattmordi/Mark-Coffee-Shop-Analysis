@@ -104,37 +104,6 @@ The interactive dashboard includes:
 - ✅ Consider weekend-specific promotions to leverage higher traffic
 - ✅ Analyze customer feedback on underperforming products
 
----
-
-## 📁 Project Structure
-
-```
-Mark-Coffee-Shop-Analysis/
-├── data/
-│   ├── raw/                    # Original unprocessed data
-│   └── processed/              # Cleaned and prepared datasets
-├── sql/
-│   ├── queries.sql             # SQL analysis queries
-│   └── data_cleaning.sql       # Data preparation scripts
-├── power-bi/
-│   ├── dashboard.pbix          # Power BI dashboard file
-│   └── visualizations/         # Individual chart exports
-├── documentation/
-│   ├── data_dictionary.md      # Data field descriptions
-│   └── methodology.md          # Analysis approach
-├── README.md                   # This file
-└── requirements.txt            # Project dependencies
-```
-
----
-
-## 💻 Installation & Setup
-
-### Prerequisites
-- Microsoft Excel (2016 or later)
-- SQL Server / MySQL / PostgreSQL
-- Power BI Desktop
-- Git
 
 ### Setup Instructions
 
@@ -182,11 +151,6 @@ ORDER BY Date;
 3. Hover over charts for detailed tooltips
 4. Export visuals as images for presentations
 
-### Running Python Scripts (Optional)
-```bash
-python scripts/analysis.py
-```
-
 ---
 
 ## 📊 Dataset Description
@@ -203,9 +167,6 @@ python scripts/analysis.py
 | Revenue | Decimal | Total revenue (Quantity × UnitPrice) |
 | Location | String | Store location |
 
-**Data Period:** [Specify your date range, e.g., January 2024 - March 2024]  
-**Total Records:** [Specify number of transactions]  
-**Data Source:** Point of Sale (POS) System
 
 ---
 

@@ -219,25 +219,12 @@ This project demonstrates a complete, beginner-friendly data analysis workflow �
 
 **Matt Mordi**
 - GitHub: [@mattmordi](https://github.com/mattmordi)
-- Email: [Your email here]
-- LinkedIn: [Your LinkedIn here]
+- Email: mmordi.mordi@gmail.com
+- LinkedIn: www.linkedin.com/in/matthew-mordi-1b799936
 
 Feel free to reach out with questions, suggestions, or collaboration opportunities!
 
----
 
-## 📄 License
 
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
-You are free to:
-- ✅ Use this project for personal or commercial purposes
-- ✅ Modify and distribute the code
-- ✅ Use it as a reference for your own projects
 
-**Please attribute** the original work if you use significant portions of this analysis.
-
----
-
-**Last Updated:** April 26, 2026  
-**Status:** ✅ Complete
